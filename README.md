@@ -52,7 +52,7 @@ begin
 
 if(!rstn)
    
- out<=0;
+out<=0;
      
 else 
    
@@ -61,12 +61,6 @@ out <= out+1;
 end
 
 endmodule
-
-
-Developed by:VIJAY.M
-
-RegisterNumber:24900322
-
 
 
 **RTL LOGIC UP COUNTER**
@@ -81,6 +75,11 @@ RegisterNumber:24900322
 **TRUTH TABLE**
 
 ![ex 11 tuble](https://github.com/user-attachments/assets/bf85d35c-26ec-4c36-9595-e3f6bcfd90ac)
+
+
+Developed by:VIJAY.M
+
+RegisterNumber:24900322
 
 **RESULTS**
 
