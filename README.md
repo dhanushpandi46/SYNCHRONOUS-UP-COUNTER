@@ -50,21 +50,23 @@ always @ (posedge clk)
 
 begin
 
-   if(!rstn)
+if(!rstn)
    
-     out<=0;
+ out<=0;
      
-   else 
+else 
    
-     out <= out+1;
+out <= out+1;
      
 end
 
 endmodule
 
+
 Developed by:VIJAY.M
 
 RegisterNumber:24900322
+
 
 
 **RTL LOGIC UP COUNTER**
