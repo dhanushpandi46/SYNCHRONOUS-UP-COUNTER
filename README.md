@@ -77,9 +77,9 @@ endmodule
 ![ex 11 tuble](https://github.com/user-attachments/assets/bf85d35c-26ec-4c36-9595-e3f6bcfd90ac)
 
 
-Developed by:VIJAY.M
+Developed by:**k DHANUSH PANDI**
 
-RegisterNumber:24900322
+RegisterNumber:**24012399**
 
 **RESULTS**
 
